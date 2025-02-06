@@ -1,0 +1,29 @@
+<?php
+///lógica
+
+$valor_arroba = 400;
+$peso_arroba = 15.00 ;
+$peso_1 = 250.89 ;
+$peso_2 = 656.74 ;
+$peso_total = 'KG ' ($peso_1 + $peso_2);
+$valor_total = 'R$'($valor_arroba * $peso_total /$peso_arroba);
+
+if ($valor_arroba * $peso_total /$peso_arroba);
+echo 'O valor total vai ser de' . $valor_total . '<br> o peso final foi de' . $peso_total; 
+
+///Exercicios de array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
